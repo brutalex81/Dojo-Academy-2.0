@@ -1,0 +1,535 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "nick": "JFF_SINNER",
+      "name": "ALESSIO",
+      "country": "IT",
+      "joined": "2024-01-01",
+      "level": "**",
+      "coach": "NINO",
+      "hours": 42,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 2,
+      "nick": "JFF_POTA",
+      "name": "FABRIZIO",
+      "country": "IT",
+      "joined": "2024-01-02",
+      "level": "*",
+      "coach": "NINO",
+      "hours": 41,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 3,
+      "nick": "JFF_ANDERWAL",
+      "name": "ANDREA",
+      "country": "IT",
+      "joined": "2024-01-03",
+      "level": "*",
+      "coach": "NINO",
+      "hours": 31,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 4,
+      "nick": "JFF_DANI",
+      "name": "DANIELE",
+      "country": "IT",
+      "joined": "2024-01-03",
+      "level": "**",
+      "coach": "NINO",
+      "hours": 41,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 5,
+      "nick": "JFF_CLIP",
+      "name": "SILVIO",
+      "country": "IT",
+      "joined": "2024-01-04",
+      "level": "*",
+      "coach": "PIX",
+      "hours": 40,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 6,
+      "nick": "itaboyz_Casco",
+      "name": "CARLO",
+      "country": "IT",
+      "joined": "2026-09-04",
+      "level": "*",
+      "coach": "PIX",
+      "hours": 3,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 7,
+      "nick": "itaBOYZ_VIN",
+      "name": "VINCENZO",
+      "country": "IT",
+      "joined": "2026-09-04",
+      "level": "*",
+      "coach": "PIX",
+      "hours": 3,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 8,
+      "nick": "itaboyz_imperatuber",
+      "name": "MARCO",
+      "country": "IT",
+      "joined": "2026-09-04",
+      "level": "***",
+      "coach": "PIX",
+      "hours": 2,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 9,
+      "nick": "itaboyz_gallo",
+      "name": "GIUSEPPE",
+      "country": "IT",
+      "joined": "2026-09-04",
+      "level": "***",
+      "coach": "PIX",
+      "hours": 3,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    },
+    {
+      "id": 10,
+      "nick": "itaboyz_faire",
+      "name": "gianluca",
+      "country": "IT",
+      "joined": "2026-09-07",
+      "level": "",
+      "coach": "NINO",
+      "hours": 1,
+      "goal": "5 STARS",
+      "cert": "DOJO SCHOOL"
+    }
+  ],
+  "prog": {
+    "JFF_SINNER": {
+      "aim": 0.35,
+      "building": 0.1,
+      "movimento": 0.2,
+      "teamwork": 0.2,
+      "sense": 0.1,
+      "lead": 0.3,
+      "avg": 0.2083333333
+    },
+    "JFF_ANDERWAL": {
+      "aim": 0.3,
+      "building": 0.1,
+      "movimento": 0.2,
+      "teamwork": 0.1,
+      "sense": 0.1,
+      "lead": 0.2,
+      "avg": 0.1666666667
+    },
+    "JFF_POTA": {
+      "aim": 0.3,
+      "building": 0.1,
+      "movimento": 0.3,
+      "teamwork": 0.05,
+      "sense": 0.1,
+      "lead": 0.2,
+      "avg": 0.175
+    },
+    "JFF_DANI": {
+      "aim": 0.3,
+      "building": 0.15,
+      "movimento": 0.4,
+      "teamwork": 0.3,
+      "sense": 0.1,
+      "lead": 0.2,
+      "avg": 0.2416666667
+    },
+    "JFF_CLIP": {
+      "aim": 0.3,
+      "building": 0.1,
+      "movimento": 0.2,
+      "teamwork": 0.15,
+      "sense": 0.1,
+      "lead": 0.2,
+      "avg": 0.175
+    },
+    "itaboyz_Casco": {
+      "aim": 0.2,
+      "building": 0.05,
+      "movimento": 0.1,
+      "teamwork": 0.2,
+      "sense": 0.1,
+      "lead": 0.1,
+      "avg": 0.125
+    },
+    "itaBOYZ_VIN": {
+      "aim": 0.25,
+      "building": 0.05,
+      "movimento": 0.1,
+      "teamwork": 0.2,
+      "sense": 0.2,
+      "lead": 0.15,
+      "avg": 0.1583333333
+    },
+    "itaboyz_imperatuber": {
+      "aim": 0.4,
+      "building": 0.15,
+      "movimento": 0.35,
+      "teamwork": 0.35,
+      "sense": 0.2,
+      "lead": 0.1,
+      "avg": 0.2583333333
+    },
+    "itaboyz_gallo": {
+      "aim": 0.4,
+      "building": 0.15,
+      "movimento": 0.35,
+      "teamwork": 0.2,
+      "sense": 0.1,
+      "lead": 0.3,
+      "avg": 0.25
+    }
+  },
+  "certs": {
+    "JFF_SINNER": {
+      "bronze": 0.8,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.1,
+      "buildP": 0.2,
+      "buildPush": 0,
+      "buildAll": 0.1,
+      "mira": 0.4,
+      "loot": 0.1,
+      "sniper": 0.4,
+      "teoria": 0.9,
+      "armi": 0.45,
+      "tw": 0.2
+    },
+    "JFF_POTA": {
+      "bronze": 0.6,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.1,
+      "buildP": 0.2,
+      "buildPush": 0,
+      "buildAll": 0.1,
+      "mira": 0.2,
+      "loot": 0.1,
+      "sniper": 0.1,
+      "teoria": 0.9,
+      "armi": 0.325,
+      "tw": 0.05
+    },
+    "JFF_ANDERWAL": {
+      "bronze": 0.5,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.2,
+      "buildP": 0.2,
+      "buildPush": 0,
+      "buildAll": 0.1,
+      "mira": 0.2,
+      "loot": 0.1,
+      "sniper": 0.1,
+      "teoria": 0.9,
+      "armi": 0.325,
+      "tw": 0.1
+    },
+    "JFF_DANI": {
+      "bronze": 0.9,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.3,
+      "buildP": 0.2,
+      "buildPush": 0.1,
+      "buildAll": 0.15,
+      "mira": 0.25,
+      "loot": 0.1,
+      "sniper": 0.1,
+      "teoria": 0.9,
+      "armi": 0.3375,
+      "tw": 0.3
+    },
+    "JFF_CLIP": {
+      "bronze": 0.5,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.2,
+      "buildP": 0.2,
+      "buildPush": 0,
+      "buildAll": 0.1,
+      "mira": 0.3,
+      "loot": 0.1,
+      "sniper": 0.2,
+      "teoria": 0.9,
+      "armi": 0.375,
+      "tw": 0.15
+    },
+    "itaboyz_Casco": {
+      "bronze": 0.5,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.2,
+      "buildP": 0.1,
+      "buildPush": 0,
+      "buildAll": 0.05,
+      "mira": 0.3,
+      "loot": 0.1,
+      "sniper": 0.1,
+      "teoria": 0.9,
+      "armi": 0.35,
+      "tw": 0.2
+    },
+    "itaBOYZ_VIN": {
+      "bronze": 0.45,
+      "silver": "/",
+      "gold": "/",
+      "switch": 0.2,
+      "buildP": 0.1,
+      "buildPush": 0,
+      "buildAll": 0.05,
+      "mira": 0.2,
+      "loot": 0.1,
+      "sniper": 0.1,
+      "teoria": 0.9,
+      "armi": 0.325,
+      "tw": 0.2
+    },
+    "IMPERATUBER": {
+      "bronze": 1,
+      "silver": 10,
+      "gold": "/",
+      "switch": 0.3,
+      "buildP": 0.2,
+      "buildPush": 0.1,
+      "buildAll": 0.15,
+      "mira": 0.3,
+      "loot": 0.1,
+      "sniper": 0.3,
+      "teoria": 0.9,
+      "armi": 0.4,
+      "tw": 0.35
+    },
+    "GALLO": {
+      "bronze": 1,
+      "silver": 10,
+      "gold": "/",
+      "switch": 0.5,
+      "buildP": 0.2,
+      "buildPush": 0.1,
+      "buildAll": 0.15,
+      "mira": 0.4,
+      "loot": 0.1,
+      "sniper": 0.2,
+      "teoria": 0.9,
+      "armi": 0.4,
+      "tw": 0.2
+    }
+  },
+  "drills": {
+    "JFF_ANDERWAL": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Sparare al poligono con armi rosse",
+        "done": false
+      }
+    ],
+    "JFF_SINNER": [],
+    "JFF_POTA": [],
+    "JFF_DANI": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Switch veloce armi e memorizzazione della rosa",
+        "done": false
+      }
+    ],
+    "JFF_CLIP": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Switch veloce armi e memorizzazione della rosa",
+        "done": false
+      }
+    ],
+    "itaboyz_Casco": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Switch veloce armi e memorizzazione della rosa",
+        "done": false
+      },
+      {
+        "text": "Tiro al poligono con armi rosse",
+        "done": false
+      }
+    ],
+    "itaBOYZ_VIN": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Switch veloce armi e memorizzazione della rosa",
+        "done": false
+      },
+      {
+        "text": "Tiro al poligono con armi rosse",
+        "done": false
+      }
+    ],
+    "IMPERATUBER": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Switch veloce armi e memorizzazione della rosa",
+        "done": false
+      },
+      {
+        "text": "Tiro al poligono con armi rosse",
+        "done": false
+      }
+    ],
+    "GALLO": [
+      {
+        "text": "muri a zig-zag nella mappa Dojo 2nd Floor",
+        "done": false
+      },
+      {
+        "text": "Switch veloce armi e memorizzazione della rosa",
+        "done": false
+      },
+      {
+        "text": "Tiro al poligono con armi rosse",
+        "done": false
+      }
+    ]
+  },
+  "pix": [
+    {
+      "nick": "JFF_CLIP",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "itaboyz_Casco",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "itaBOYZ_VIN",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "itaboyz_imperatuber",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "itaboyz_gallo",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    }
+  ],
+  "nino": [
+    {
+      "nick": "JFF_SINNER",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "JFF_POTA",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "JFF_ANDERWAL",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "JFF_DANI",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    },
+    {
+      "nick": "itaboyz_faire",
+      "days": "L/M/G/D",
+      "map": "DOJO MAP"
+    }
+  ],
+  "cards": {
+    "JFF_ANDERWAL": {
+      "role": "Entry Fragger / Assaltatore",
+      "str": "Versatilità: Buona capacità di adattarsi a diversi contesti di gioco e stili di combattimento.                                                                                      Efficacia nei push: Determinato e incisivo quando c'è da attaccare e mettere pressione al team avversario.",
+      "grow": "Coesione col team: Sincronizzare gli ingaggi con la squadra ed evitare di avanzare in solitario.                                                                                      Tracciamento nemico (Target Tracking): Lavorare sulla continuità visiva nei confronti dell'avversario durante il fight.                                                            Ingaggi a lungo raggio: Sviluppare maggiore confidenza con le armi da distanza per essere completo in ogni fase del match."
+    },
+    "ITABOYZ_VIN": {
+      "role": "Close-Range Aggressor / Skirmisher",
+      "str": "Controllo del rinculo: Buona gestione del recoil nelle raffiche e precisione negli scontri a fuoco.                                                      Potenziale di crescita: Ottima base meccanica con ottimi margini di miglioramento nel combattimento ravvicinato.",
+      "grow": "Posizionamento e coperture: Si espone troppo alla ricerca della kill immediata; deve lavorare sulla pazienza e sul rimanere protetto durante i fight.\n\nUso della verticalità: Ridurre la permanenza a terra per sfruttare di più la mobilità in volo e le posizioni elevate.\n\nFocus allenamento: Sessioni dedicate alla meccanica di volo/gliding e ingaggi a cortissima distanza con TEC-9 e DT11."
+    },
+    "JFF_CLIP": {
+      "role": "Long-Range Support / Tactician",
+      "str": "Intelligenza tattica: Ottime idee di gioco, intuito e lettura delle situazioni.                                                                         Dedizione e impegno: Grande costanza, motivazione e voglia di migliorarsi continuamente.",
+      "grow": "Processo decisionale (Valutazione delle giocate): Riflettere un momento prima di effettuare movimenti o ingaggi, evitando decisioni affrettate o impulsive.\n\nSpecializzazione a lungo raggio: Concentrare l'allenamento sulle armi a lunga distanza (in particolare AWP e sniper/DMR) per sfruttare al meglio la visione tattica e coprire la squadra da posizione di vantaggio."
+    },
+    "ITABOYZ_GALLO": {
+      "role": "Versatile / In fase di definizione",
+      "str": "Conoscenza dell'arsenale: Ampia padronanza e comprensione di tutte le armi del gioco e del loro funzionamento.\n\nPotenziale inespresso: Ampio margine di crescita da sbloccare lavorando sulla motivazione e sullo spirito di gioco.",
+      "grow": "Ingaggi e mobilità nei push: Ridurre la staticità durante gli attacchi, aumentando la dinamicità e i ritmi nei combattimenti ravvicinati.\n\nGestione delle risorse e building: Evitare lo spreco di materiali; costruire con uno scopo tattico ben preciso senza sprecare le risorse in-game.\n\nReattività (1v1 Sparring): Effettuare sessioni di allenamento 1v1 contro compagni più forti per forzare la velocità di esecuzione e sviluppare i riflessi necessari nei fight.\n\nVarietà d'ingaggio: Integrare maggiormente l'uso delle armi gialle (cecchini) e rosse a lungo raggio per coprire le distanze elevate.\n\nMovimento: Esercizi mirati sulla meccanica di volo per migliorare la fluidità negli spostamenti aerei."
+    },
+    "ITABOYZ_IMPERATUBER": {
+      "role": "Captain / All-Rounder / Lead Entry",
+      "str": "Profilo più completo e versatile dell'accademia: Giocatore solido su ogni fronte con eccellenti prospettive di crescita.\n\nTiming e senso del gioco: Ottima lettura dei momenti chiave negli scontri 1v1 e tempismo perfetto nelle fasi d'attacco.\n\nAlto potenziale: Aspettative molto elevate per capacità generali e potenziale da top player.",
+      "grow": "Mentalità d'attacco: Sbloccare del tutto il potenziale nei push eliminando le ultime esitazioni o la tendenza a contenersi troppo.\n\nMira con armi rosse a lungo raggio: Lavorare sulla precisione a distanza con le armi rosse per migliorare l'efficacia nei ingaggi lontani.\n\nSpecializzazione AWP: Allenare intensamente il cecchino per aggiungere un'ulteriore minaccia da distanza al suo bagaglio tecnico.\n\nStealth e Visibilità: Equipaggiare skin \"umane\" e poco vistose per evitare di diventare un bersaglio facile per i team avversari.\n\nMovimento avanzato: Esercizi mirati sulla gestione del volo e sulle meccaniche di wall-jump viste insieme in lobby."
+    },
+    "JFF_POTA": {
+      "role": "Entry Fragger / Assaltatore",
+      "str": "Versatilità: Ampio potenziale d'adattamento a diverse situazioni di gioco e armi.\n\nAggressività nei push: Ottima capacità di ingaggio e pressione nei combattimenti a corto/medio raggio.",
+      "grow": "Gioco di squadra: Sincronizzare i push con i compagni ed evitare l'isolamento durante le fasi offensive.\n\nFocus visivo (Target Tracking): Mantenere costantemente la traccia del nemico per evitare di perdere l'ingaggio nei riposizionamenti.\n\nScontri a lungo raggio: Necessita di allenamento mirato con le armi da distanza (AWP/Scout/Magnum) per completare il proprio bagaglio tecnico e sbloccare il livello successivo."
+    },
+    "JFF_CIKKO": {
+      "role": "Flexible Attacker / All-Rounder in formazione",
+      "str": "Alto potenziale: Base tecnica solida con ottimi margini per diventare un giocatore completo su ogni fronte.\n\nMovimento e timing nei push: Buona fluidità negli spostamenti ed eccellente senso dell'ingaggio quando c'è da attaccare.",
+      "grow": "Uso delle coperture (Building): Costruire più muri durante i fight ed evitare di rimanere a terra scoperto; sfruttare maggiormente la verticalità e le protezioni istantanee.\n\nDinamicità in combattimento: Ridurre la staticità durante le sparatorie per essere un bersaglio meno prevedibile.\n\nSelezionatore d'armi e mira: Focus e allenamento mirato sulle armi gialle (cecchini) e rosse (SMG/Shotgun), mettendo momentaneamente da parte quelle arancioni (fucili d'assalto)."
+    },
+    "JFF_SINNER": {
+      "role": "Supporto Long-Range / Overwatch",
+      "str": "Precisione cecchino: Ottima padronanza delle armi a lungo raggio (AWP/Magnum).\n\nVisione di gioco: Ampia lettura della mappa, eccellente gestione delle distanze e consapevolezza della posizione dei team..",
+      "grow": "Scontro diretto (1v1 Push): Incrementare la sicurezza nel gioco d'attacco a corto raggio e nei duelli ravvicinati.\n\nEsecuzione tattica: Consolidare le regole base di posizionamento durante le fasi concitate del fight.\n\nTracciamento bersaglio (Target Focus): Mantenere l'ingaggio visivo costante sull'avversario senza perdere la traccia nei cambi di copertura."
+    },
+    "ITABOYZ_CASCO": {
+      "role": "Close-Range Aggressor / Skirmisher",
+      "str": "Controllo del rinculo: Eccellente gestione del recoil, che gli permette di essere molto preciso negli scontri a fuoco.\n\nPotenziale grezzo: Buona base meccanica e potenziale elevato per diventare un fragger di alto livello.",
+      "grow": "Focus e disciplina in coms: Parla troppo durante le fasi attive, finendo per distrarsi e perdere la concentrazione sulla partita.\n\nConsapevolezza e gestione della copertura: Tende a esporsi troppo pur di chiudere subito la kill; deve rimanere concentrato sul fight in corso ed evitare azioni impulsive.\n\nSfruttamento della verticalità: Limitare il gioco \"a terra\" e utilizzare maggiormente la mobilità aerea e l'altezza per prendere vantaggi posizionali.\n\nFocus allenamento: Esercizi mirati sulla meccanica di volo/gliding e ingaggi a cortissima distanza per perfezionare l'uso di TEC-9 e DT11."
+    }
+  }
+}
